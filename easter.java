@@ -19,19 +19,19 @@ public class easter {
         int n = (h + r - 7 * m + 114) / 31;
         int p = (h + r - 7 * m + 114) % 31;
         system.out.println("a = " + a);
-        system.out.println("b = " + cb);
-        system.out.println("c = " + );
-        system.out.println("d = " + );
-        system.out.println("e = " + );
-        system.out.println("f = " + );
-        system.out.println("g = " + );
-        system.out.println("h = " + );
-        system.out.println("i = " + );
-        system.out.println("j = " + );
-        system.out.println("k = " + );
-        system.out.println("l = " + );
-        system.out.println("m = " + );
-        system.out.println("n = " + );
-        system.out.println("p = " + );
+        system.out.println("b = " + b);
+        system.out.println("c = " + c);
+        system.out.println("d = " + d);
+        system.out.println("e = " + e);
+        system.out.println("f = " + f);
+        system.out.println("g = " + g);
+        system.out.println("h = " + h);
+        system.out.println("i = " + i);
+        system.out.println("j = " + j);
+        system.out.println("k = " + k);
+        system.out.println("l = " + l);
+        system.out.println("m = " + m);
+        system.out.println("n = " + n);
+        system.out.println("p = " + p);
     }
 }
