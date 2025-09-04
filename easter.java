@@ -27,9 +27,8 @@ public class easter {
         System.out.println("g = " + g);
         System.out.println("h = " + h);
         System.out.println("i = " + i);
-        System.out.println("j = " + j);
         System.out.println("k = " + k);
-        System.out.println("l = " + l);
+        System.out.println("r = " + r);
         System.out.println("m = " + m);
         System.out.println("n = " + n);
         System.out.println("p = " + p);
